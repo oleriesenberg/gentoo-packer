@@ -21,7 +21,7 @@
       "shutdown_command":     "shutdown -hP now",
       "disk_size":            60000,
       "guest_additions_mode": "disable",
-      "headless":             false,
+      "headless":             true,
       "boot_wait":            "5s",
 
       "boot_command": [
